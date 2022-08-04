@@ -1,0 +1,22 @@
+- = bocciato			+ = passato			_ = non pervenuto
+X = Da correggere		C = corretto			V = in valutazione
+P = priorita'
+
+
+
+shell 00:	100/100;						+_
+shell 01:	100/100;						+_
+c 00:		100/100;						+_
+c 01:		100/100;						+_
+c 02:		100/100;						+_
+c 03:		100/100;						+_
+c 04:		100/100;						+_
+c 05:		100/100;						+_
+c 06:		100/100;						+_
+c 07:		 60/100 04,05;						+X
+c 08:		100/100;						+_
+c rush01	  0/100;						-_
+c rush02	 20/100;						-_
+c exam00	100/100;						+_
+c exam01	 80/100;						+_
+c exam02	100/100;						+_
